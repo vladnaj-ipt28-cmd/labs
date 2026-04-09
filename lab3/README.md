@@ -22,8 +22,7 @@
 * Jupyter Notebook
 
 ## Запуск
-Інструкція із запуску
-Створіть та активуйте віртуальне середовище: python -m venv venv
-Встановіть необхідні залежності: pip install -r requirements.txt
-Запустіть Jupyter Notebook: jupyter notebook
-Відкрийте файл з кодом лабораторної роботи та виконайте комірки по черзі.
+1. Створіть та активуйте віртуальне середовище: python -m venv venv
+2. Встановіть необхідні залежності: pip install -r requirements.txt
+3. Запустіть Jupyter Notebook: jupyter notebook
+4. Відкрийте файл з кодом лабораторної роботи та виконайте комірки по черзі.
