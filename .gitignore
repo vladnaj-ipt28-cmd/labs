@@ -16,7 +16,7 @@ venv/
 
 power_data.zip
 dataset_folder/
-#vhi_dataset/
+vhi_dataset/
 household_power_consumption.txt
 
 .ipynb_checkpoints/
