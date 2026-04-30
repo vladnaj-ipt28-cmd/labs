@@ -1,0 +1,27 @@
+# Кеш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Віртуальне середовище
+venv/
+env/
+.env
+
+# Налаштування Streamlit
+.streamlit/
+
+# Налаштування редакторів коду та IDE
+.vscode/
+.idea/
+*.swp
+
+# Системні файли ОС
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Файли з даними 
+# *.csv
